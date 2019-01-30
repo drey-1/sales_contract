@@ -19,7 +19,10 @@ Run
      truffle compile
  , start the testrpc network(ganache-cli) after 
  
+      sales_contract/Screenshot (38).png
       truffle migrate 
 Use truffle console to interact with the smart contract. Get the contract address and abi file from this console.
 (please refer to the truffle documents here).
     
+        sales_contract/Screenshot (38).png
+      
