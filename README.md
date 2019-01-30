@@ -3,7 +3,7 @@ smart contract for sales
 
 Steps to use the application:
 
-    Install TestRPC npm install -g ganache
+Install TestRPC npm install -g ganache
     Run ganache-cli(specify the mining interval at two seconds), ten accounts will be allocated with 100 ethers in each account. Further details please refer to here.
     Install Truffle npm install -g truffle
     Run truffle init to initiate a new smart contract, and create a new .sol file in /contract.
