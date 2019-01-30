@@ -18,10 +18,12 @@ Run
      
      truffle compile
  , start the testrpc network(ganache-cli) after 
- 
+  ![alt text](https://github.com/drey-1/sales_contract/blob/master/Screenshot%20(38).png)
+       
   sales_contract/Screenshot (38).png
       truffle migrate 
 Use truffle console to interact with the smart contract. Get the contract address and abi file from this console.
 (please refer to the truffle documents here).
-    ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+   After truffle migrate 
+    ![alt text](https://github.com/drey-1/sales_contract/blob/master/Screenshot%20(39).png)
        
