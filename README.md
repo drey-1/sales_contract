@@ -23,5 +23,5 @@ Run
       truffle migrate 
 Use truffle console to interact with the smart contract. Get the contract address and abi file from this console.
 (please refer to the truffle documents here).
-    
+    ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
        
